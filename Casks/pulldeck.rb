@@ -8,7 +8,7 @@ cask "pulldeck" do
   desc "Menu-bar app that prioritizes your GitHub pull requests"
   homepage "https://pulldeck.dev/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "PullDeck.app"
 
