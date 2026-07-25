@@ -1,6 +1,6 @@
 cask "pulldeck" do
-  version "0.2.2"
-  sha256 "f9b502298623f5dc03d5feb2a25f8332707ed50458d7f92eab32799579fa39fd"
+  version "0.2.3"
+  sha256 "b163ff28bd469e47f1e5281be9cec5bb8becfa508e43a1cb6b01806f9063aff5"
 
   url "https://github.com/lumargo/pulldeck-releases/releases/download/v#{version}/PullDeck.dmg",
       verified: "github.com/lumargo/pulldeck-releases/"
